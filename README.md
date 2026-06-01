@@ -1,3 +1,3 @@
-- [Website](https://www.linkedin.com/in/your-linkedin-handle/) - Not quite a portfolio
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle/) - Because everyone has one
+- [Website](https://tjeastmond.com) - Not quite a portfolio
+- [LinkedIn](https://linkedin.com/in/tjeastmond) - Because everyone has one
 - [Steam](https://steamcommunity.com/id/spiteshow) - I like games
