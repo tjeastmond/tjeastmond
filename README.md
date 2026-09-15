@@ -1,3 +1,4 @@
 - [Website](https://tjeastmond.com) - Not quite a portfolio
+- [Swoo.io](https://swoo.io) - Where I build thoughtful software
 - [LinkedIn](https://linkedin.com/in/tjeastmond) - Because everyone has one
 - [Steam](https://steamcommunity.com/id/spiteshow) - I like games
